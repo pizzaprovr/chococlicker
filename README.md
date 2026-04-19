@@ -98,12 +98,9 @@ The first Pro rank-up needs 10,000 points, then each next Pro rank needs 1,000 m
 
 ## Project Files
 
-- `index.html` - main game page
+- `ChocoClicker.exe` - main game page
 - `styles.css` - game styling and animations
 - `app.js` - main game logic
-- `OnlineServer/` - optional online server
-- `WindowsLauncher/` - Windows app launcher source
-- `dist/` - built Windows app files
 
 ## Notes
 
